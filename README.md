@@ -57,9 +57,7 @@
 
 
 #### 💼 Контактная информация
-- **Telegram:** [@ваш_ник](https://t.me/ваш_ник)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **GitHub:** [ваш-username](https://github.com/ваш-username)
-- **LinkedIn:** [Ваше Имя](https://linkedin.com/in/ваш-профиль)
+- **Telegram:** [@zhuravlev0063](https://t.me/zhuravlev0063)
+- **Email:** [zhuravlev0063@gmail.com](mailto:zhuravlev0063@gmail.com)
 ---
 *Спасибо, что заглянули! ✨*
