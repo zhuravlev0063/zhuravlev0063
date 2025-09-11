@@ -57,12 +57,9 @@
 
 
 #### 💼 Контактная информация
-
-**📍 Местоположение:** Город, Страна  
-**💬 Telegram:** [@ваш_ник](https://t.me/ваш_ник)  
-**📧 Email:** [your.email@example.com](mailto:your.email@example.com)  
-**👨💻 GitHub:** [github.com/ваш-username](https://github.com/ваш-username)  
-**💼 LinkedIn:** [linkedin.com/in/ваш-профиль](https://linkedin.com/in/ваш-профиль)  
-**📝 Habr Career:** [career.habr.com/ваш-профиль](https://career.habr.com/ваш-профиль)
+- **Telegram:** [@ваш_ник](https://t.me/ваш_ник)
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **GitHub:** [ваш-username](https://github.com/ваш-username)
+- **LinkedIn:** [Ваше Имя](https://linkedin.com/in/ваш-профиль)
 ---
 *Спасибо, что заглянули! ✨*
