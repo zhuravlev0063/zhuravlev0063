@@ -59,7 +59,8 @@
 
 
 #### 💼 Контактная информация
-- **Telegram:** [@zhuravlev0063](https://t.me/zhuravlev0063)
-- **Email:** [zhuravlev0063@gmail.com](mailto:zhuravlev0063@gmail.com)
+- **📱 Telegram:** [@zhuravlev0063](https://t.me/zhuravlev0063)
+- **📧 Email:** [zhuravlev0063@gmail.com](mailto:zhuravlev0063@gmail.com)
+- **🐙 GitHub:** [zhuravlev0063](https://github.com/zhuravlev0063)
 ---
 *Спасибо, что заглянули! ✨*
